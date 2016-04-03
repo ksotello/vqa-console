@@ -1,0 +1,26 @@
+{
+  "name": "vqa-console",
+  "version": "1.0.0",
+  "description": "A command line too for the visual quality assistance suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksotello/vqa-console.git"
+  },
+  "keywords": [
+    "vqa",
+    "visula",
+    "quality",
+    "assistance",
+    "qa"
+  ],
+  "author": "Kyle Sotello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksotello/vqa-console/issues"
+  },
+  "homepage": "https://github.com/ksotello/vqa-console#readme"
+}
